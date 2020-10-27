@@ -7,3 +7,4 @@ def mutate(string, position, character):
 
 
 print(mutate(input("string: "), int(input("position: ")), input("character: ")))
+
